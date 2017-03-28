@@ -18,6 +18,7 @@ s='\nIlk Satır.\nIkinci Satir. \nUcuncu Satir.'
 print(s)
 
 
+
 print('C:\some\name')# \ operatöünü normal kullanırsak name kelimesinde \n i yakalayıp alt satıra inecektir.
 print(r'C:\some\name')# \ operatöünü r ile kullanırsak alt satıra inmeyecektir.
 

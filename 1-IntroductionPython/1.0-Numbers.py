@@ -28,6 +28,7 @@ width=20
 height=7*2
 print(width*height) #280
 
+
 #degiskeni tanımlamadan kullanmaya kalkarsak hata aliriz.
 # print(a)
 #NameError: name 'a' is not defined

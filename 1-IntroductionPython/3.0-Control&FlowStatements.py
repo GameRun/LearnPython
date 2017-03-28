@@ -30,6 +30,7 @@ def forExample1():
 
 
 
+
 #if kullanımı
 #ifExample()
 
