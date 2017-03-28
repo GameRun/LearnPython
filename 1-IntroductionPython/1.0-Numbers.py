@@ -29,6 +29,7 @@ height=7*2
 print(width*height) #280
 
 
+
 #degiskeni tanımlamadan kullanmaya kalkarsak hata aliriz.
 # print(a)
 #NameError: name 'a' is not defined
@@ -39,6 +40,8 @@ print(3*3.75/1.5) #7.5
 print(7/2.0) #3.5
 
 #Yaptigimiz bu örnekler ile sayilar ile olan işlemlerimizi şimdilik bitirebiliriz.
+
+
 
 
 

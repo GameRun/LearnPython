@@ -29,6 +29,7 @@ Usage : thingy [OPTIONS]
         -H hostname     Hostname to connect to
 """)
 
+
 print('''
         1
             2
