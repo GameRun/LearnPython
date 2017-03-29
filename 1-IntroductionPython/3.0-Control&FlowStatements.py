@@ -47,7 +47,7 @@ def breakStatement():
     for i in range(5):
         if i == 3:
             break
-        print(i, end=',')
+        print(i, end=' ')
 
 
 breakStatement() #0,1,2
@@ -58,7 +58,19 @@ def continueStatement():
     for i in range(5):
         if i == 3:
             continue
-        print(i,end=',')
+        print(i,end=' ')
 
-
+print ("\n")
 continueStatement() #0,1,2,4
+
+def topla(a,b):
+    """Toplama islemi yapmaktadir"""
+    print(a+b)
+
+print ("\n")
+
+topla(31,4)
+
+t=topla
+
+t(1,11)
