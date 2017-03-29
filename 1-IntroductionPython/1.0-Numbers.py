@@ -18,6 +18,7 @@ print(5*4+1) # (5*4)+1 #21
 
 print(5*(4+1)) # 5*(4+1) #25
 
+
 # yeni bir operatör daha **
 print(6**2)  # üs alma operatörü ** olarak kullanıyoruz 6 üzeri 2 #36
 

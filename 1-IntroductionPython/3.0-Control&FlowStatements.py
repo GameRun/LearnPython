@@ -29,8 +29,6 @@ def forExample1():
         print(a, len(a))
 
 
-
-
 #if kullanımı
 #ifExample()
 
